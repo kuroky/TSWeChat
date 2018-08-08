@@ -53,6 +53,30 @@ DEPENDENCIES:
   - XLActionController
   - YYText (= 1.0.7)
 
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Cent
+    - Dollar
+    - ImagePicker
+    - INTULocationManager
+    - KeychainAccess
+    - Kingfisher
+    - ObjcExceptionBridging
+    - ObjectMapper
+    - RxBlocking
+    - RxCocoa
+    - RxSwift
+    - SnapKit
+    - SVProgressHUD
+    - SwiftyJSON
+    - TimedSilver
+    - TSVoiceConverter
+    - UIColor_Hex_Swift
+    - XCGLogger
+    - XLActionController
+    - YYText
+
 SPEC CHECKSUMS:
   Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
   Cent: fb5ef7da981cc382a3562da5d86a01461cfb5ac4
@@ -78,4 +102,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: 8f23688aabcb41168be9011402a3e880f48355ca
 
-COCOAPODS: 1.2.0
+COCOAPODS: 1.5.3

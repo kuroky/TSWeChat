@@ -56,7 +56,7 @@ public extension Date {
             ], from: earliest, to: latest, options: NSCalendar.Options())
         
         if (components.year! >= 2) {
-            return "\(components.year) 年前"
+            return "\(String(components.year)) 年前"
         } else if (components.year! >= 1){
             if (numericDates){
                 return "1 年前"
